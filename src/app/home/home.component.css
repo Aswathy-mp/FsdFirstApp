@@ -1,0 +1,20 @@
+.text-center{
+    padding: 5%;
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+}
+h4{
+    text-align: center;
+    color: whitesmoke;
+    font-style:normal;
+}

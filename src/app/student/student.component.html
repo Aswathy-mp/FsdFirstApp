@@ -1,0 +1,7 @@
+<div>
+    <h2>Student Details</h2>
+    <ul *ngFor="let user of httpdata">
+        <li>Name : {{user.name}} </li>
+        <li>Address : {{user.address.street}}</li>
+</ul>
+</div>

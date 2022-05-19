@@ -1,0 +1,7 @@
+div{
+    border: solid mediumpurple 1px;
+    background-color: mediumpurple;
+    border-radius: 3px;
+    padding: 3%;
+    text-align: center;
+}

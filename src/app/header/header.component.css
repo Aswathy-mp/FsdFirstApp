@@ -1,0 +1,12 @@
+a{
+    color:darkblue;
+    text-decoration: none;
+    padding-right: 2%;
+}
+.border{
+    padding: 3%;
+    background-color: rgba(100, 148, 237, 0.521);
+}
+a:hover{
+    color:cadetblue;
+}
